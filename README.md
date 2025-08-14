@@ -90,10 +90,10 @@
 
 ---
 
-## 🌟 Fun Stuff
+## 🤠 Fun Stuff
 
 <details>
-<summary>📱 Connect with me</summary>
+<summary> 📲  Connect with me</summary>
 
 <div align="center">
 
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary>💭 Random Dev Quote</summary>
+<summary> 🙇🏽‍♀️Random Dev Quote</summary>
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary>🎮 Marvel & Music Corner</summary>
+<summary> 🥸 Marvel & Music Corner</summary>
 
 **Favorite Marvel Characters:** Rogue, Wanda Maximoff, Doctor Doom, Gambit  
 **Current Fashion Inspiration:** Sustainable tech wear meets elegant minimalism  
